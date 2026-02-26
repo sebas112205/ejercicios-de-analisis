@@ -1,0 +1,11 @@
+🧩 Problema 1: Subarreglo de suma máxima (versión fuerza bruta)
+📘 Enunciado
+Dado un arreglo de n enteros (positivos y negativos), determine el subarreglo contiguo cuya suma sea máxima.
+
+📌 Restricción: Evalúe todos los subarreglos posibles.
+
+💭 Preguntas guía
+¿Cuántos subarreglos contiguos existen en un arreglo de tamaño n?
+¿Qué complejidad tiene evaluar cada uno?
+¿Es lo mismo que explorar todos los subconjuntos?
+¿Cómo se compara contra el algoritmo de Kadane?

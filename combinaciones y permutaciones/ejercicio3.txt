@@ -1,0 +1,8 @@
+🧠 Ejercicio 3. ¿Cuántas contraseñas posibles?
+Supón que una contraseña se forma con 2 letras (A-Z) y 2 dígitos (0–9). Calcula cuántas combinaciones diferentes se pueden generar sin usar letras ni dígitos repetidos.
+
+🎯 Este problema combina el principio multiplicativo y la eliminación de opciones usadas.
+
+📌 Salida esperada: Número total de combinaciones posibles
+
+🧠 Extensión: Genera y muestra las 10 primeras contraseñas.

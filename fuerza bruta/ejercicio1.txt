@@ -1,0 +1,11 @@
+🧩 Problema 2: Tripleta con suma objetivo
+📘 Enunciado
+Dado un arreglo de n enteros y un valor X, determine si existen tres elementos distintos cuya suma sea exactamente X.
+
+📌 Restricción: Evalúe todas las posibles tripletas.
+
+💭 Preguntas guía
+¿Cuántas tripletas distintas existen?
+¿Cuál es la relación con combinatoria?
+¿Qué orden de complejidad se obtiene?
+¿Cómo cambiaría si fueran 4 elementos? ¿k elementos?

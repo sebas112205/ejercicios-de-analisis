@@ -1,0 +1,2 @@
+🧠 Ejercicio 2. Combinaciones de r elementos entre n
+Dado un conjunto de elementos y un número  r , imprime todas las combinaciones posibles sin importar el orden.
