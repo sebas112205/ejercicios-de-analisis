@@ -1,0 +1,10 @@
+🔁 Ejercicio 4. Palabras posibles con letras repetidas
+¿Cuántas formas distintas se pueden generar con las letras de la palabra "MAMÁ"?
+
+Debes considerar que hay letras repetidas, por tanto no basta con hacer n!.
+
+🎯 Calcula:
+
+El número total de permutaciones distintas.
+Todas las permutaciones únicas.
+📌 Adicional: Crea una implementación adicional basada en itertools.permutations + set
