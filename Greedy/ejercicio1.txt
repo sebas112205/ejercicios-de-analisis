@@ -1,0 +1,12 @@
+Una empresa de tecnología tiene una lista de n trabajos que pueden realizarse en un único procesador. Cada trabajo i está asociado a:
+
+Un tiempo límite (deadline): el trabajo debe completarse antes o en ese tiempo (1 unidad de tiempo por trabajo).
+Una ganancia (profit): si el trabajo se completa dentro de su plazo, se obtiene esta ganancia; si no, la ganancia es 0.
+El procesador solo puede realizar un trabajo por unidad de tiempo, y cada trabajo dura exactamente 1 unidad.
+
+👉 El objetivo es seleccionar y ordenar los trabajos de manera que la ganancia total sea máxima.
+
+Ejemplo
+Entrada: Trabajos = [(J1, deadline=2, profit=100), (J2, deadline=1, profit=19), (J3, deadline=2, profit=27), (J4, deadline=1, profit=25), (J5, deadline=3, profit=15)]
+
+Salida: Secuencia = [J1, J3, J5], Ganancia = 142

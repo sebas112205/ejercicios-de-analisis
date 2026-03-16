@@ -22,7 +22,7 @@ public class ejercicio2 {
                                 if (suma > 0)
                                     {
                                         resultado.add(suma);
-                                        
+                                        System.out.print(resultado);
                                     }
                             }
                     }
